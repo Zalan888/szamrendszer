@@ -1,0 +1,7 @@
+C:\Users\witmannz\gitWork\szamrendszer\bin\Debug\szamrendszer.exe.config
+C:\Users\witmannz\gitWork\szamrendszer\bin\Debug\szamrendszer.exe
+C:\Users\witmannz\gitWork\szamrendszer\bin\Debug\szamrendszer.pdb
+C:\Users\witmannz\gitWork\szamrendszer\obj\Debug\szamrendszer.csproj.AssemblyReference.cache
+C:\Users\witmannz\gitWork\szamrendszer\obj\Debug\szamrendszer.csproj.CoreCompileInputs.cache
+C:\Users\witmannz\gitWork\szamrendszer\obj\Debug\szamrendszer.exe
+C:\Users\witmannz\gitWork\szamrendszer\obj\Debug\szamrendszer.pdb
